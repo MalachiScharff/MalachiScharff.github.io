@@ -1,69 +1,42 @@
 # MalachiScharff.github.io[Index.html](https://github.com/user-attachments/files/27763922/Index.html)
-
+[archery.html](https://github.com/user-attachments/files/27764107/archery.html)
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset "utf-8">
 <link rel="icon" href="images/icon.png"/>
 <link rel="stylesheet" type="text/css" href="css.css">
-<title> My Portfoily </title>
+<title> Archery </title>
+
 
 </head>
 <body>
 	<header>
-	<h1> My hobbies</h1>
+	<h1> Archery</h1>
 	</header>
-<nav>
+	<nav>
 			<ul>
 				<li> <a href="Bytejam.html"> Btye jam </a>
-				<li> <a href="archery.html"> Archry </a>
+				<li> <a href="Index.html"> Main </a>
 				<li> <a href="trap.html"> Trap/skeet </a>
 				<li> <a href="drama.html"> Drama </a>
 				<li> <a href="woodworking.html"> Wood working </a>
 			</ul>
 		</nav>
-		<br>
-<table border="1px" width="75%">
-    <thead>
-        <tr>
-            <th>Hobbie</th>
-            <th>What month</th>
-            <th>Hours a day</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Bytejam</td>
-            <td> August-November</td>
-            <td>30-45min every friday monday amd tuesday</td>
-        </tr>
-        <tr>
-            <td>Archery</td>
-            <td>December-May</td>
-            <td>1 hour every tuesdaysady and thursday and 2 hours every saturday</td>
-        </tr>
-        <tr>
-            <td>Trap/skeet</td>
-            <td>April-June</td>
-            <td>2 hours saturdy and sunday and sometimes thusdays to</td>
-        </tr>
-        <tr>
-            <td>Drama</td>
-            <td>August-December</td>
-            <td>6 hours every day after school sometimes more</td>
-        </tr>
-        <tr>
-            <td>Woodworking</td>
-            <td>Any Month mainly in spring and summer</td>
-            <td>1-4 hours depending on what im building any day</td>
-        </tr>
-        <tr>
-        </tr>
-    </tbody>
-</table>
-<img src = "images/icon.png" width="300px" height="300px"/>
+	<div id="arcsec">
+<h1> Pictures: </h1>
+<img src="Images/Archery photo.jpg">
+<img src="Images/arcpic.jpg" id="archerypic2">
+<img src="Images/lineofarc.jpg" id="archerypic2">
+<img src="Images/meandbroarc.jpg" id="archerypic2">
+</div>
+<h2> What is archrey? </h2>
+<p>
+Archery is a sport and skill where a person uses a bow to shoot arrows at a target. The goal is usually to hit the center of the target as accurately as possible. It requires focus, steady control, good posture, and practice to improve aim and consistency.
 
-
-<a href="comments.html" id="btm"> Questions? Comments? or Concerns? </a>
+People practice archery for different reasons, including competition, recreation, hunting, and historical or cultural interest. It can be done individually or in groups, and there are different styles, such as target archery, field archery, and traditional archery.
+I shoot competition for my school and we go throught Nasp.
+NASP is a program that teaches students archery in schools. It focuses on safety, proper technique, and building skills like focus, discipline, and confidence. Students usually shoot at targets from set distances and can compete in tournaments.
+</p>
 </body>
 </html>
